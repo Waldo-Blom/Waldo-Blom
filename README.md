@@ -1,13 +1,15 @@
 <h2 align="left">Hello World👋! I'm Waldo Blom, a Web Developer</h2>
 
 ###
-🌐 Currently working on my own [webpage](https://waldoblom.com/)<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity<br>📍 Pretoria, South Africa <br>
+🌐 Check out my portfolio  [webpage](https://waldoblom.com/) for more info<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity<br>📍 Pretoria, South Africa <br>
+###
+💻 **Currently Learning:** TypeScript & Git-Source contol
 
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -30,6 +32,9 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waldo-Blom&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waldo-Blom/Waldo-Blom/output/github-snake-dark.svg" />
