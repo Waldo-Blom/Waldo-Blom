@@ -1,7 +1,7 @@
 <h2 align="left">Hello World👋! I'm Waldo Blom, a Full-Stack Developer  </h2>
 
 ###
-🌐 Check out my portfolio  [webpage](https://waldoblom.com/) for more info<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity<br>📍 Pretoria, South Africa <br>
+🌐 Check out my portfolio  [webpage](https://waldoblom.com/) for more info<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity <br>💼 Seeking internship/graduate opportunities in software development <br>📄 [Download My CV](https://waldoblom.com/my-cv) 
 ###
 💻 **Currently Learning:** Next.js, React, Typescript, Tailwind CSS, Firebase Authentication, Firestore.
 
