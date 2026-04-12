@@ -3,7 +3,7 @@
 ###
 🌐 Check out my portfolio  [webpage](https://waldoblom.com/) for more info<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity <br>💼 Seeking internship/graduate opportunities in software development <br>📄 [Download My CV](https://waldoblom.com/my-cv) 
 ###
-💻 **Currently Learning:** Next.js, React, Typescript, Tailwind CSS, Firebase Authentication, Firestore.
+💻 **Currently Learning:** Next.js, React, Typescript, Tailwind CSS
 
 
 
