@@ -1,13 +1,19 @@
-<h2 align="left">Hello World👋! I'm Waldo Blom, a Full-Stack Developer  </h2>
+<h2 align="left">Waldo Blom — Full-Stack Developer</h2>
+
+- Check out my [portfolio](https://waldoblom.com/) for more info
+- Bachelor of Computing student, with a focus in Software Engineering at Belgium Campus iTversity
+- Currently seeking internship/graduate opportunities in software development
+- [Download my CV](https://waldoblom.com/my-cv)
 
 ###
-🌐 Check out my portfolio  [webpage](https://waldoblom.com/) for more info<br>👨🏼‍🎓 Studying Bachelor of Computing student studying with a focus in Software Engineering at Belgium Campus iTversity <br>💼 Seeking internship/graduate opportunities in software development <br>📄 [Download My CV](https://waldoblom.com/my-cv) 
-###
-💻 **Currently Learning:** Next.js, React, Typescript, Tailwind CSS
 
-
+**Developing Proficiency In:** Next.js, React, TypeScript, Tailwind CSS, Java and PostgreSQL
 
 ###
+
+<div align="center">
+  <p style="margin-bottom: 12px;"><strong>My Technical Skills Include:</strong></p>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
