@@ -3,7 +3,7 @@
 - Check out my [portfolio](https://waldoblom.com/) for more info
 - Bachelor of Computing student, with a focus in Software Engineering at Belgium Campus iTversity
 - Currently seeking internship/graduate opportunities in software development
-- [Download my CV](https://waldoblom.com/my-cv)
+- <a href="https://waldoblom.com/files/Waldo_Blom_CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a>
 
 ###
 
