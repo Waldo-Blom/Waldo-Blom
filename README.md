@@ -1,7 +1,7 @@
 <h2 align="left">Waldo Blom — Full-Stack Developer</h2>
 
 - Check out my [portfolio](https://waldoblom.com/) for more info
-- Bachelor of Computing student, with a focus in Software Engineering at Belgium Campus iTversity
+- Bachelor of Computing student studying with a focus in Software Engineering, at Belgium Campus iTversity
 - Currently seeking internship/graduate opportunities in software development
 - [Download my CV](https://waldoblom.com/files/Waldo_Blom_CV.pdf)
 
