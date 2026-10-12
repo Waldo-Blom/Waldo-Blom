@@ -1,18 +1,27 @@
-<h2 align="left">Waldo Blom — Full-Stack Developer</h2>
+<h2 align="left">Hi, I'm Waldo Blom</h2>
 
-- Check out my [portfolio](https://waldoblom.com/) for more info
-- Bachelor of Computing student studying with a focus in Software Engineering, at Belgium Campus iTversity
-- Currently seeking internship/graduate opportunities in software development
+I'm a Bachelor of Computing student at Belgium Campus iTversity in Pretoria, majoring in Software Engineering and graduating in 2027. I'm looking for an internship or graduate software development role for my in-service training year in 2027.
+
+I enjoy breaking down problems to fully understand their root cause, then designing and building practical solutions,
+often in the form of web applications or small tools. Outside of development, I’m often on the golf course or at the driving range 🏌️‍♀️⛳.
+
+- [Portfolio](https://waldoblom.com/)
 - [Download my CV](https://waldoblom.com/files/Waldo_Blom_CV.pdf)
+- Email: waldoblom@yahoo.com
 
-###
+### Education
 
-**Developing Proficiency In:** Next.js, React, TypeScript, Tailwind CSS, Java and PostgreSQL
+- Bachelor of Computing, Belgium Campus (expected 2027): 81% weighted average, with distinctions in 34 of 36 modules
+- National Senior Certificate, Hoërskool Garsfontein (2022): 80.57% average, 4 distinctions
+
+### Currently Learning
+
+Next.js, React, TypeScript, Tailwind CSS, Java and PostgreSQL
 
 ###
 
 <div align="center">
-  <p style="margin-bottom: 12px;"><strong>My Technical Skills Include:</strong></p>
+  <p style="margin-bottom: 12px;"><strong>Technical Skills</strong></p>
 </div>
 
 <div align="center">
