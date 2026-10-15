@@ -14,7 +14,7 @@ often in the form of web applications or small tools. Outside of development, Iâ
 - Bachelor of Computing, Belgium Campus (expected 2027): 81% weighted average, with distinctions in 34 of 36 modules
 - National Senior Certificate, HoÃ«rskool Garsfontein (2022): 80.57% average, 4 distinctions
 
-### Currently Learning
+### Currently Improving my skills in:
 
 Next.js, React, TypeScript, Tailwind CSS, Java and PostgreSQL
 
